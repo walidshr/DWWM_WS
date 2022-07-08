@@ -1,0 +1,157 @@
+
+body{
+    background-color: #3B4A51;
+}
+
+h1, h2, p{
+    margin: 0;
+}
+
+main{
+    width: 960px;
+    margin: 0 auto;
+    background-color: #fbf2d5;
+    font-family: 'Roboto';
+    font-size: 20px;
+    
+}
+
+
+
+header{
+
+    background-image:url(img/header.jpg);
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 960px;
+
+}
+
+.imgheader{
+    margin: 0 auto;
+    width: 960px;
+
+}
+    
+
+h1{
+    font-size: 24px ;
+    color: #fdc571;
+    padding-top: 50px;
+    padding-left: 90px;
+    padding-bottom: 20px;
+
+
+}
+
+.logoirlande{
+    padding-left: 90px;
+}
+
+.irlande1{
+    padding-top: 65px;
+    padding-bottom: 35px;
+    padding-left: 130px;
+    padding-right: 173px;
+}
+
+.couleur{
+    color: #7fa99b;
+
+}
+
+.irlandeitalic{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #46555a;
+    padding-left: 90px;
+    border-left-style: solid;
+    font-style: italic;
+    padding-right: 173px;
+    padding-bottom: 30px;
+    display: block;
+}
+
+
+.irlande2{
+    padding-left: 130px;
+    padding-right: 173px;
+
+}
+
+h2{
+    color: #7fa99b;
+    font-family: 'Roboto';
+    font-size: 22px;
+    padding-left: 90px;
+    padding-bottom: 35px;
+}
+
+.topographie{
+    padding-left: 130px;
+    padding-right: 173px;
+
+}
+
+
+h3{
+    color: #7fa99b;
+    font-family: 'Roboto';
+    font-size: 22px;
+    padding-left: 90px;
+    padding-top: 35px;
+    padding-bottom: 35px;
+
+}
+
+.climat{
+    padding-left: 130px;
+    padding-right: 173px;
+
+}
+
+h4{
+    color: #7fa99b;
+    font-family: 'Roboto';
+    font-size: 22px;
+    padding-left: 90px;
+    padding-bottom: 35px;
+}
+
+.imglac{
+
+    padding-left: 90px;
+    padding-right: 173px;
+    padding-top: 103px;
+    padding-bottom: 90px;
+
+}
+
+.imgforet{
+    padding-left: 90px;
+    padding-right: 173px;
+    padding-top: 77px;
+    padding-bottom: 70px;
+
+}
+
+.Tourisme1{
+    padding-left: 130px;
+    padding-right: 173px;
+}
+
+.listetourisme{
+    padding-left: 130px;
+    padding-right: 173px;
+}
+
+.Tourisme2{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #46555a;
+    padding-left: 90px;
+    border-left-style: solid;
+    font-style: italic;
+    padding-right: 173px;
+    padding-bottom: 165px;
+}

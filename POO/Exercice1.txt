@@ -1,0 +1,6 @@
+1) Définir une classe Livre avec les attributs suivants : Titre, Auteur (Nom complet), Prix.
+2) Définir à l’aide des propriétés les méthodes d’accès aux différents attributs de la classe.
+3) Définir un constructeur permettant d’initialiser les attributs de la méthode par des valeurs saisies par l’utilisateur.
+4) Définir la méthode Afficher ( ) permettant d’afficher les informations du livre en cours.
+Écrire un programme testant la classe Livre.
+

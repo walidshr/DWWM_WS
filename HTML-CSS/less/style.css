@@ -1,0 +1,17 @@
+.une h1 {
+  color: aqua;
+  font-size: 25px;
+}
+.une p {
+  color: gray;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: italic;
+}
+.deux h1 {
+  color: yellow;
+  font-size: 1px;
+  font-size: 35px;
+}
+.deux p {
+  color: red;
+}

@@ -1,0 +1,12 @@
+$sql = 'SELECT * FROM Artistes';
+
+$req = $pdo->query($sql);
+$req = $pdo->prepare($sql);
+$req->setFetchMode(PDO::FETCH_ASSOC);
+$req->execute();
+
+$tab = $req->fetchAll();
+
+for($i=0;$i<count($tab);$i++){
+    echo "<tr>"."<td>".$tab[$i]["nom_artiste"]." ".$tab[$i]["prenom_artiste"]." ".$tab[$i]["password"]."</td>"."<tr/>"."<br/>";
+}
